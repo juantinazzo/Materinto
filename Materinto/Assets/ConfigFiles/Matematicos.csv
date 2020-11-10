@@ -1,0 +1,33 @@
+﻿Surname,Name,Birth,Death,Origin,Paper,Residence,Meeting,MeetingYear,MeetingPlace,Index,Algebra,Aritmetica,Analisis,Geometria,Logica,Conjuntos,Fundamentos,Latin,Aleman,Frances,Ingles
+Banach,Stefan,1892,1945,Austrohungría (Polonia),True,Leópolis (Ucrania),en el Congreso Internacional de Matemáticos ,1938,Oslo (Noruega),True,False,False,True,False,False,True,True,False,False,True,False
+Boole,George,1815,1864,Inglaterra,False,Cork (Irlanda),en una clase en el Queens College,1849,Cork (Irlanda),True,True,False,False,False,True,False,False,False,False,False,True
+Cantor,Georg,1845,1918,Rusia,True,Halle (Alemania),en una clase en la Friedrichs-Universität,1872,Halle (Alemania),True,False,False,False,False,False,True,True,False,True,False,False
+Cauchy,Agustin Louis,1789,1857,Francia,True,Paris (Francia),en una clase en el Collège de France,1817,Paris (Francia),True,False,False,True,True,False,False,False,False,False,True,False
+Dedekind,Richard,1831,1916,Alemania,True,Göttingen (Alemania),en una clase en la Universidad de Göttingen,1854,Göttingen (Alemania),True,False,True,True,True,False,True,True,False,True,False,False
+Dirichlet,Johann,1805,1859,Alemania,True,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Erdős,Pál,1913,1996,Hungría,False,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Euler,Leonhard,1707,1783,Suiza,True,Berlin (Alemania),en una reunión en la Academia de Berlin,1742,Berlin (Alemania),True,True,True,True,True,False,False,False,False,True,False,False
+Fermat,Pierre de,1605,1665,Francia,False,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Fourier,Joseph,1768,1830,Francia,True,Paris (Francia),en una clase en el École Polytechnique,1795,Paris (Francia),True,False,False,True,False,False,False,False,False,False,True,False
+Fraenkel,Abraham,1891,1965,Alemania (israelí),False,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Galois,Évariste,1811,1832,Francia,False,Paris (Francia),en una clase en el École Normale,1830,Paris (Francia),True,True,False,False,False,False,False,False,False,False,True,False
+Gauß,Carl Friedrich,1777,1855,Alemania,True,Göttingen (Alemania),en una clase en la Universidad de Göttingen,1807,Göttingen (Alemania),True,True,True,True,True,False,False,False,False,True,False,False
+Germain,Sophie ,1776,1831,Francia,False,Paris (Francia),en una sesión de la Academia Francesa de las Ciencias,1815,Paris (Francia),True,False,False,True,False,False,False,False,False,False,True,False
+Gödel,Kurt,1906,1978,Austrohungría,True,Viena (Austria),en el Congreso Internacional de Matemáticos ,1950,Cambridge (USA),True,False,True,False,False,False,True,True,False,True,False,False
+Hausdorff,Felix,1868,1942,Prusia je (Polonia),True,Bonn (Alemania),en una clase en la Universidad de Bonn,1922,Bonn (Alemania),True,False,False,False,True,False,True,True,False,True,False,False
+Hilbert,David,1862,1943,Prusia (Rusia),True,Göttingen (Alemania),en el Congreso Internacional de Matemáticos ,1900,Paris (Francia),True,False,True,True,True,True,True,True,False,True,False,False
+Kolmogórov,Andréi,1903,1987,Rusia,False,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Lagrange,Joseph Louis,1736,1813,Italia,True,Paris (Francia),en una clase en el École Polytechnique,1794,Paris (Francia),True,True,True,True,False,False,False,False,True,False,False,False
+Leibniz,Gottfried,1646,1716,Alemania,True,Hannover (Alemania),en una reunión en  la biblioteca de Hannover,1676,Hannover (Alemania),True,False,False,True,False,False,False,False,False,True,False,False
+Noether,Ammy,1882,1935,Alemania,True,Gottingen (Alemania),en el Congreso Internacional de Matemáticos ,1932,Zürich,True,True,False,False,False,False,False,False,False,True,False,True
+Peano,Giuseppe,1858,1932,Italia,True,Torino (Italia),en el Congreso Internacional de Matemáticos ,1912,Cambridge (UK),True,False,True,False,False,True,True,True,True,False,False,False
+Poincaré,Henri,1854,1912,Francia,True,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Riemann,Bernhard,1826,1866,Alemania,True,Göttingen (Alemania),en una clase en la Universidad de Göttingen,1854,Göttingen (Alemania),True,True,True,True,True,False,False,False,False,True,False,False
+Russel,Bertrand,1872,1970,Reino Unido,True,Cambridge (UK),en una clase en el Trinity College,1913,Cambridge (UK),True,False,False,False,False,False,True,True,False,False,False,True
+Tarski,Alfred,1901,1983,Polonia,True,Varsovia (Polonia),en el Congreso Internacional de Matemáticos ,1954,Amsterdam (Países Bajos),True,False,False,False,True,True,True,True,False,False,False,False
+Turing,Alan,1912,1954,Reino Unido,True,Cambridge (UK),en una clase en el King's College,1935,Cambridge (UK),True,False,False,False,False,False,False,True,False,False,False,True
+von Neumann,John,1903,1957,Austrohungría (Hungría),True,Budapest (Hungría),en el Congreso Internacional de Matemáticos ,1950,Cambridge (USA),True,False,False,False,False,True,True,True,False,False,False,False
+Weierstraß,Karl,1815,1897,Alemania,True,Berlin (Alemania),en una clase en la Universidad de Berlin,1856,Berlin (Alemania),True,False,False,True,False,False,False,False,False,True,False,False
+Weil,André,1906,1998,Fancia,False,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Wittgenstein,Ludwig,1889,1951,Austria,False,-,-,0,-,False,False,False,False,False,False,False,False,False,False,False,False
+Zermelo,Ernst,1871,1953,Alemania,True,Göttingen (Alemania),en el Congreso Internacional de Matemáticos ,1912,Cambridge (UK),True,False,False,False,False,False,True,True,False,True,False,False

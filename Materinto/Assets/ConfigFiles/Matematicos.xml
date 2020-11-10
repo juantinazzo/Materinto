@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MateDB>
+	<list>
+	  <Matematico>
+		<Surname>Banach</Surname>
+		<Name>Stefan</Name>
+		<Birth>1892</Birth>
+		<Death>1945</Death>
+		<Origin>Austrohungría (Polonia)</Origin>
+		<Paper>true</Paper>
+		<Residence>Leópolis (Ucrania)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1938</MeetingYear>
+		<MeetingPlace>Oslo (Noruega)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>true</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Boole</Surname>
+		<Name>George</Name>
+		<Birth>1815</Birth>
+		<Death>1864</Death>
+		<Origin>Inglaterra</Origin>
+		<Paper>false</Paper>
+		<Residence>Cork (Irlanda)</Residence>
+		<Meeting>en una clase en el Queens College</Meeting>
+		<MeetingYear>1849</MeetingYear>
+		<MeetingPlace>Cork (Irlanda)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>true</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>true</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>true</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Cantor</Surname>
+		<Name>Georg</Name>
+		<Birth>1845</Birth>
+		<Death>1918</Death>
+		<Origin>Rusia</Origin>
+		<Paper>true</Paper>
+		<Residence>Halle (Alemania)</Residence>
+		<Meeting>en una clase en la Friedrichs-Universität</Meeting>
+		<MeetingYear>1872</MeetingYear>
+		<MeetingPlace>Halle (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Cauchy</Surname>
+		<Name>Agustin Louis</Name>
+		<Birth>1789</Birth>
+		<Death>1857</Death>
+		<Origin>Francia</Origin>
+		<Paper>true</Paper>
+		<Residence>Paris (Francia)</Residence>
+		<Meeting>en una clase en el Collège de France</Meeting>
+		<MeetingYear>1817</MeetingYear>
+		<MeetingPlace>Paris (Francia)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>true</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Dedekind</Surname>
+		<Name>Richard</Name>
+		<Birth>1831</Birth>
+		<Death>1916</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>Göttingen (Alemania)</Residence>
+		<Meeting>en una clase en la Universidad de Göttingen</Meeting>
+		<MeetingYear>1854</MeetingYear>
+		<MeetingPlace>Göttingen (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Euler</Surname>
+		<Name>Leonhard</Name>
+		<Birth>1707</Birth>
+		<Death>1783</Death>
+		<Origin>Suiza</Origin>
+		<Paper>true</Paper>
+		<Residence>Berlin (Alemania)</Residence>
+		<Meeting>en una reunión en la Academia de Berlin</Meeting>
+		<MeetingYear>1742</MeetingYear>
+		<MeetingPlace>Berlin (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>true</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Fourier</Surname>
+		<Name>Joseph</Name>
+		<Birth>1768</Birth>
+		<Death>1830</Death>
+		<Origin>Francia</Origin>
+		<Paper>true</Paper>
+		<Residence>Paris (Francia)</Residence>
+		<Meeting>en una clase en el École Polytechnique</Meeting>
+		<MeetingYear>1795</MeetingYear>
+		<MeetingPlace>Paris (Francia)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>true</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Galois</Surname>
+		<Name>Évariste</Name>
+		<Birth>1811</Birth>
+		<Death>1832</Death>
+		<Origin>Francia</Origin>
+		<Paper>false</Paper>
+		<Residence>Paris (Francia)</Residence>
+		<Meeting>en una clase en el École Normale</Meeting>
+		<MeetingYear>1830</MeetingYear>
+		<MeetingPlace>Paris (Francia)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>true</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>true</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Gauß</Surname>
+		<Name>Carl Friedrich</Name>
+		<Birth>1777</Birth>
+		<Death>1855</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>Göttingen (Alemania)</Residence>
+		<Meeting>en una clase en la Universidad de Göttingen</Meeting>
+		<MeetingYear>1807</MeetingYear>
+		<MeetingPlace>Göttingen (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>true</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Germain</Surname>
+		<Name>Sophie </Name>
+		<Birth>1776</Birth>
+		<Death>1831</Death>
+		<Origin>Francia</Origin>
+		<Paper>false</Paper>
+		<Residence>Paris (Francia)</Residence>
+		<Meeting>en una sesión de la Academia Francesa de las Ciencias</Meeting>
+		<MeetingYear>1815</MeetingYear>
+		<MeetingPlace>Paris (Francia)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>true</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Gödel</Surname>
+		<Name>Kurt</Name>
+		<Birth>1906</Birth>
+		<Death>1978</Death>
+		<Origin>Austrohungría</Origin>
+		<Paper>true</Paper>
+		<Residence>Viena (Austria)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1950</MeetingYear>
+		<MeetingPlace>Cambridge (USA)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Hausdorff</Surname>
+		<Name>Felix</Name>
+		<Birth>1868</Birth>
+		<Death>1942</Death>
+		<Origin>Prusia je (Polonia)</Origin>
+		<Paper>true</Paper>
+		<Residence>Bonn (Alemania)</Residence>
+		<Meeting>en una clase en la Universidad de Bonn</Meeting>
+		<MeetingYear>1922</MeetingYear>
+		<MeetingPlace>Bonn (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Hilbert</Surname>
+		<Name>David</Name>
+		<Birth>1862</Birth>
+		<Death>1943</Death>
+		<Origin>Prusia (Rusia)</Origin>
+		<Paper>true</Paper>
+		<Residence>Göttingen (Alemania)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1900</MeetingYear>
+		<MeetingPlace>Paris (Francia)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>true</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Lagrange</Surname>
+		<Name>Joseph Louis</Name>
+		<Birth>1736</Birth>
+		<Death>1813</Death>
+		<Origin>Italia</Origin>
+		<Paper>true</Paper>
+		<Residence>Paris (Francia)</Residence>
+		<Meeting>en una clase en el École Polytechnique</Meeting>
+		<MeetingYear>1794</MeetingYear>
+		<MeetingPlace>Paris (Francia)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>true</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>true</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Leibniz</Surname>
+		<Name>Gottfried</Name>
+		<Birth>1646</Birth>
+		<Death>1716</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>Hannover (Alemania)</Residence>
+		<Meeting>en una reunión en  la biblioteca de Hannover</Meeting>
+		<MeetingYear>1676</MeetingYear>
+		<MeetingPlace>Hannover (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Noether</Surname>
+		<Name>Ammy</Name>
+		<Birth>1882</Birth>
+		<Death>1935</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>Gottingen (Alemania)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1932</MeetingYear>
+		<MeetingPlace>Zürich</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>true</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>true</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Peano</Surname>
+		<Name>Giuseppe</Name>
+		<Birth>1858</Birth>
+		<Death>1932</Death>
+		<Origin>Italia</Origin>
+		<Paper>true</Paper>
+		<Residence>Torino (Italia)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1912</MeetingYear>
+		<MeetingPlace>Cambridge (UK)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>true</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>true</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Riemann</Surname>
+		<Name>Bernhard</Name>
+		<Birth>1826</Birth>
+		<Death>1866</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>Göttingen (Alemania)</Residence>
+		<Meeting>en una clase en la Universidad de Göttingen</Meeting>
+		<MeetingYear>1854</MeetingYear>
+		<MeetingPlace>Göttingen (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>true</Algebra>
+		<Aritmetica>true</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Russel</Surname>
+		<Name>Bertrand</Name>
+		<Birth>1872</Birth>
+		<Death>1970</Death>
+		<Origin>Reino Unido</Origin>
+		<Paper>true</Paper>
+		<Residence>Cambridge (UK)</Residence>
+		<Meeting>en una clase en el Trinity College</Meeting>
+		<MeetingYear>1913</MeetingYear>
+		<MeetingPlace>Cambridge (UK)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>true</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Tarski</Surname>
+		<Name>Alfred</Name>
+		<Birth>1901</Birth>
+		<Death>1983</Death>
+		<Origin>Polonia</Origin>
+		<Paper>true</Paper>
+		<Residence>Varsovia (Polonia)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1954</MeetingYear>
+		<MeetingPlace>Amsterdam (Países Bajos)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>true</Geometria>
+		<Logica>true</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Turing</Surname>
+		<Name>Alan</Name>
+		<Birth>1912</Birth>
+		<Death>1954</Death>
+		<Origin>Reino Unido</Origin>
+		<Paper>true</Paper>
+		<Residence>Cambridge (UK)</Residence>
+		<Meeting>en una clase en el King&apos;s College</Meeting>
+		<MeetingYear>1935</MeetingYear>
+		<MeetingPlace>Cambridge (UK)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>true</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>von Neumann</Surname>
+		<Name>John</Name>
+		<Birth>1903</Birth>
+		<Death>1957</Death>
+		<Origin>Austrohungría (Hungría)</Origin>
+		<Paper>true</Paper>
+		<Residence>Budapest (Hungría)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1950</MeetingYear>
+		<MeetingPlace>Cambridge (USA)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>true</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Weierstraß</Surname>
+		<Name>Karl</Name>
+		<Birth>1815</Birth>
+		<Death>1897</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>Berlin (Alemania)</Residence>
+		<Meeting>en una clase en la Universidad de Berlin</Meeting>
+		<MeetingYear>1856</MeetingYear>
+		<MeetingPlace>Berlin (Alemania)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>true</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Zermelo</Surname>
+		<Name>Ernst</Name>
+		<Birth>1871</Birth>
+		<Death>1953</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>Göttingen (Alemania)</Residence>
+		<Meeting>en el Congreso Internacional de Matemáticos </Meeting>
+		<MeetingYear>1912</MeetingYear>
+		<MeetingPlace>Cambridge (UK)</MeetingPlace>
+		<Index>true</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>true</Conjuntos>
+		<Fundamentos>true</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>true</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Dirichlet</Surname>
+		<Name>Johann</Name>
+		<Birth>1805</Birth>
+		<Death>1859</Death>
+		<Origin>Alemania</Origin>
+		<Paper>true</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Erdős</Surname>
+		<Name>Pál</Name>
+		<Birth>1913</Birth>
+		<Death>1996</Death>
+		<Origin>Hungría</Origin>
+		<Paper>false</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Fermat</Surname>
+		<Name>Pierre de</Name>
+		<Birth>1605</Birth>
+		<Death>1665</Death>
+		<Origin>Francia</Origin>
+		<Paper>false</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Fraenkel</Surname>
+		<Name>Abraham</Name>
+		<Birth>1891</Birth>
+		<Death>1965</Death>
+		<Origin>Alemania (israelí)</Origin>
+		<Paper>false</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Kolmogórov</Surname>
+		<Name>Andréi</Name>
+		<Birth>1903</Birth>
+		<Death>1987</Death>
+		<Origin>Rusia</Origin>
+		<Paper>false</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Poincaré</Surname>
+		<Name>Henri</Name>
+		<Birth>1854</Birth>
+		<Death>1912</Death>
+		<Origin>Francia</Origin>
+		<Paper>true</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Weil</Surname>
+		<Name>André</Name>
+		<Birth>1906</Birth>
+		<Death>1998</Death>
+		<Origin>Fancia</Origin>
+		<Paper>false</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	  <Matematico>
+		<Surname>Wittgenstein</Surname>
+		<Name>Ludwig</Name>
+		<Birth>1889</Birth>
+		<Death>1951</Death>
+		<Origin>Austria</Origin>
+		<Paper>false</Paper>
+		<Residence>-</Residence>
+		<Meeting>-</Meeting>
+		<MeetingYear>0</MeetingYear>
+		<MeetingPlace>-</MeetingPlace>
+		<Index>false</Index>
+		<Algebra>false</Algebra>
+		<Aritmetica>false</Aritmetica>
+		<Analisis>false</Analisis>
+		<Geometria>false</Geometria>
+		<Logica>false</Logica>
+		<Conjuntos>false</Conjuntos>
+		<Fundamentos>false</Fundamentos>
+		<Latin>false</Latin>
+		<Aleman>false</Aleman>
+		<Frances>false</Frances>
+		<Ingles>false</Ingles>
+	  </Matematico>
+	</list>
+</MateDB>
